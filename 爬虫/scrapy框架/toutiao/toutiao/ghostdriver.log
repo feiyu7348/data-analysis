@@ -1,0 +1,67 @@
+[INFO  - 2021-07-07T09:28:28.286Z] GhostDriver - Main - running on port 65316
+[INFO  - 2021-07-07T09:28:30.572Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-07-07T09:28:30.572Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.customHeaders:  - {}
+[INFO  - 2021-07-07T09:28:30.572Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-07-07T09:28:30.573Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b1331e80-df05-11eb-8bd6-c9747171bb5d
+[ERROR - 2021-07-07T09:28:31.276Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - msg: ReferenceError: Can't find variable: Map
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:31.276Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - stack:
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:247)
+  e (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:247)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:247)
+  r (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:319)
+  r (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:319)
+  r (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:312)
+  r (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:312)
+  r (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+  (anonymous function) (https://unpkg.byted-static.com/byted-ucenter/ttwid-js/1.0.1/dist/index.umd.production.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:31.276Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - msg: ReferenceError: Can't find variable: TTWidInstance
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:31.276Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - stack:
+  global code (https://www.toutiao.com/:103)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:32.657Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - msg: Unhandled promise rejection TypeError: Attempting to change access mechanism for an unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:32.657Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - stack:
+  (anonymous function) (https://lf3-cdn2-tos.bytegoofy.com/toutiao/toutiao_web_pc/common/vendor.f4c0d8ec.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:32.658Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - msg: Unhandled promise rejection TypeError: Attempting to change access mechanism for an unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-07-07T09:28:32.658Z] Session [b1331e80-df05-11eb-8bd6-c9747171bb5d] - page.onError - stack:
+  (anonymous function) (https://lf3-cdn2-tos.bytegoofy.com/toutiao/toutiao_web_pc/common/vendor.f4c0d8ec.js:48)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2021-07-07T09:33:28.304Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T09:38:28.305Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T09:43:28.320Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T09:48:28.320Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T09:53:28.319Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T09:58:28.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:03:28.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:08:28.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:13:28.350Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:18:28.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:23:28.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:54:26.613Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Fatal Windows exception, code 0xc0000005.
+PhantomJS has crashed. Please read the bug reporting guide at
+<http://phantomjs.org/bug-reporting.html> and file a bug report.
+] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-07-07T10:54:26.498Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Fatal Windows exception, code 0xc0000005.
+PhantomJS has crashed. Please read the bug reporting guide at
+<http://phantomjs.org/bug-reporting.html> and file a bug report.

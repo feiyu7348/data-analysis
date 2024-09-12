@@ -1,0 +1,47 @@
+
+
+1、创建工程  scrapy startproject xxxPro
+2、cd xxxPro
+3、在spiders子目录中创建一个爬虫文件
+    - scrapy genspider spiderName www.xxx.com
+4、执行工程  scrapy crawl spiderName
+
+
+
+修改setting
+    1、USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36'
+    2、ROBOTSTXT_OBEY = False
+    3、LOG_LEVEL = 'ERROR'
+
+- scrapy 持久化存储
+    -基于终端指令：
+        - 要求：只可以将parse方法的返回值存储到本地的文本文件中
+        - 指令：scrapy crawl spiderName -o ./xxx.csv
+        - 注意：对应的文本文件类型只可以有：csv,json,xml等
+    -基于管道：
+        - 编码流程：
+            - 数据解析
+            - 在item类中定义相关的属性
+            - 将解析的数据封装存储到item类型的对象
+            - 将item类型的对象提交给管道进行持久化存储的操作
+            - 在管道类的process_item中将其接收到的item对象中存储的数据进行永久化存储操作
+            - 在配置文件中开启管道
+
+     - 存到数据库
+        - 管道文件中一个管道类对应的是将数据存储到一个平台
+        - 爬虫文件提取的item只会给管道文件中第一个被执行的管道类接收
+        - process_item中的return item 表示将item传递给下一个积极被执行的管道类
+
+- 全站数据爬取
+    -自行手动进行请求发送
+        yield scrapy.Request(url,callback)
+
+- 五大组件
+        - 引擎 （Scrapy）
+        - 调度器 （Scheduler）
+        - 下载器 （Downloader）
+        - 爬虫 （Spider）
+        - 项目管理 （Pipeline）
+
+ - 请求传参
+        -

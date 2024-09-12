@@ -3,6 +3,125 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="E:\python数据处理\fourteen\data_test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\fourteen\data_train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\Case016_基于三种超参数优化算法的客户购买保险可能性分析_彭佳\data\.ipynb_checkpoints\results_bayes_trials-checkpoint.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\Case016_基于三种超参数优化算法的客户购买保险可能性分析_彭佳\data\.ipynb_checkpoints\results_random_params-checkpoint.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\Case016_基于三种超参数优化算法的客户购买保险可能性分析_彭佳\data\data_caravan-insurance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\Case016_基于三种超参数优化算法的客户购买保险可能性分析_彭佳\data\results_bayes_params.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\Case016_基于三种超参数优化算法的客户购买保险可能性分析_彭佳\data\results_bayes_trials.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\Case016_基于三种超参数优化算法的客户购买保险可能性分析_彭佳\data\results_random_params.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\data_item.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\data_stock1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\data_stock2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\niubi\data_u.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\seventeen\DataForClassify.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\sixteen\data_temps1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\sixteen\data_temps2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\thirteen\data_bike.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="E:\python数据处理\大作业\名单.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data_venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccos.csv">
           <value>
             <Attribute>
@@ -39,6 +158,13 @@
           </value>
         </entry>
         <entry key="\data_venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctanh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cbrt.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -123,6 +249,13 @@
           </value>
         </entry>
         <entry key="\data_venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data_venv\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tanh.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -1,0 +1,5 @@
+
+jpython:S1542"MRename function "getPage" to match the regular expression ^[a-z_][a-z0-9_]*$.(À¥Ä˜ýÿÿÿÿ
+Tpython:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+lpython:S1542"ORename function "parsePage" to match the regular expression ^[a-z_][a-z0-9_]*$.(óŠöÍýÿÿÿÿ
+lpython:S1542*"ORename function "writeFile" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥´æûÿÿÿÿ
