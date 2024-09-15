@@ -8,7 +8,7 @@
 
 def bubble_sort(nums: list[int]):
     n = len(nums)
-    for i in range(n-1):
+    for i in range(n - 1):
         flag = False
         for j in range(0, n - i - 1):
             if nums[j] > nums[j + 1]:
